@@ -1,2 +1,2 @@
-# swampwf.gihub.io
+# swampwf.github.io
 SWAMP web site
