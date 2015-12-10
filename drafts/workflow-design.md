@@ -15,3 +15,30 @@ To design a workflow, you need the following information:
 - who will perform these steps
 
 Design the 'data model' and the 'flow chart' of a workflow separately. In SWAMP, you have access to all data fields at any point in the workflow (they may be empty of course).
+
+Data fields
+
+The following data types are available:
+
+- boolean
+- date
+- datetime
+- enum
+- float
+- multienum
+- number
+- numberlist
+- person
+- string
+- text
+- url
+
+Actions
+
+The following actions are available that are typically done by humans:
+
+- manual task - A simple task with a 'Done' button
+- decision - A question with 1..n answers
+- data edit - The request to fill in data in form fields
+
+
